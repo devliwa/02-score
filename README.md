@@ -20,7 +20,7 @@ This project is a great way to practice DOM manipulation, event listeners, and w
 ---
 
 ## Website Demo 
-[Score Project]()
+[Score Project](https://devliwa.github.io/02-score/)
 <img width="1268" height="643" alt="02 Score " src="https://github.com/user-attachments/assets/61edec0c-8444-45ea-9f52-c1a4b543d656" />
 
 
